@@ -20,7 +20,7 @@ GIVEN a functional Express.js API
 -THEN I am able to successfully create, update, and delete data in my database.
 
 
-$0 Technologies
+&#128279;Technologies
 <ul>
 <li>Javascript</li>
 <li>node.js</li>
@@ -31,7 +31,7 @@ $0 Technologies
 <li>insomnia</li>
 </ul>
 
-$0 Demo Video:
+&#128279;Demo Video:
 
 
-$0 Project Link:
+&#128279;Project Link:
