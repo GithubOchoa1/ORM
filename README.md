@@ -1,5 +1,5 @@
 # ORM- ECOMMERCE BACK END
--Description:
+<h1>Description:</h1>
 Use Sequalize ORM and MySQL to create a back-end for an e-commerce website. Setting up Sequalize Models to input MySQL database.
 Creating routes for HTTP GET, POST, PUT and DELETE requests.
 
